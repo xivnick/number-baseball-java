@@ -53,7 +53,7 @@ public class Main {
             }
         }
 
-        System.out.println("Congraturation!");
+        System.out.println("축하합니다!");
         System.out.printf("당신의 점수는: %d", score);
     }
 }
